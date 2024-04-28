@@ -1,0 +1,5 @@
+Mobile               Samsung              1          35000     
+Bottel               Tata                 2          50        
+ToothPest            Colgate              3          20        
+Soap                 Medimix              4          40        
+Laptop               Dell                 5          52000     

@@ -1,0 +1,7 @@
+Mobile	Samsung	1	35000
+Bottel	Tata	2	50
+ToothPest	Colgate	3	20
+Laptop	Dell	5	52000
+Watch                Fastrack             6          500       
+Agarbatti            cycle                7          45        
+Car                  Lamborgini           8          200000000 
